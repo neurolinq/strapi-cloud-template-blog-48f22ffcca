@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_aboutpage_care_cards",
+  "info": {
+    "displayName": "Care Card"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

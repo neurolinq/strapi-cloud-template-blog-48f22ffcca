@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_aboutpage_care_approaches",
+  "info": {
+    "displayName": "Care Approach"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "cards": {
+      "type": "component",
+      "component": "aboutpage.care-card",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

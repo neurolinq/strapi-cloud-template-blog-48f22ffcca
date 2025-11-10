@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_feespage_our_commitments",
+  "info": {
+    "displayName": "Our Commitment"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    },
+    "cards": {
+      "type": "component",
+      "component": "feespage.fees-card",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

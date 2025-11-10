@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_aboutpage_core_values",
+  "info": {
+    "displayName": "Core Values"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    },
+    "cards": {
+      "type": "component",
+      "component": "homepage.care-standard-card",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

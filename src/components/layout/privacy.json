@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_layout_privacies",
+  "info": {
+    "displayName": "Privacy"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "tags": {
+      "type": "component",
+      "component": "layout.tags",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

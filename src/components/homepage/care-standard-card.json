@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_homepage_care_standard_cards",
+  "info": {
+    "displayName": "Care Standard Card"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "title": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

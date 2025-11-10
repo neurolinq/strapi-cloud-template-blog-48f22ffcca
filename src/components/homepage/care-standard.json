@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_homepage_care_standards",
+  "info": {
+    "displayName": "Care Standard",
+    "icon": "eye"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    },
+    "cards": {
+      "type": "component",
+      "component": "homepage.care-standard-card",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

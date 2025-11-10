@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_feespage_fees_cards",
+  "info": {
+    "displayName": "Fees Card"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "price": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    },
+    "lists": {
+      "type": "component",
+      "component": "servicepage.lists",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

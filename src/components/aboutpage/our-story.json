@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_aboutpage_our_stories",
+  "info": {
+    "displayName": "Our Story"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  },
+  "config": {}
+}

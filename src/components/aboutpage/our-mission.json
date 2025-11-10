@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_aboutpage_our_missions",
+  "info": {
+    "displayName": "Our Mission"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

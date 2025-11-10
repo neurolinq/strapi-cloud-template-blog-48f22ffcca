@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_feespage_options",
+  "info": {
+    "displayName": "Options"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  },
+  "config": {}
+}

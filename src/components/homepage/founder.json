@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_homepage_founders",
+  "info": {
+    "displayName": "Founder"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "subtitle": {
+      "type": "text"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "profile": {
+      "type": "component",
+      "component": "homepage.profile",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

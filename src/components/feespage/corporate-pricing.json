@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_feespage_corporate_pricings",
+  "info": {
+    "displayName": "Corporate Pricing"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    },
+    "card": {
+      "type": "component",
+      "component": "servicepage.medication",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_servicepage_assessments",
+  "info": {
+    "displayName": "Assessment"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    },
+    "button": {
+      "type": "component",
+      "component": "shared.button",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

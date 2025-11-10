@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_feespage_pricing_options",
+  "info": {
+    "displayName": "Pricing Options"
+  },
+  "options": {},
+  "attributes": {
+    "cards": {
+      "type": "component",
+      "component": "feespage.options",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

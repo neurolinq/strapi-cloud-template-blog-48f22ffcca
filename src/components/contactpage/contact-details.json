@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_contactpage_contact_details",
+  "info": {
+    "displayName": "Contact Details"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    },
+    "cards": {
+      "type": "component",
+      "component": "contactpage.social-cards",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

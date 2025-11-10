@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_contactpage_social_cards",
+  "info": {
+    "displayName": "Social Cards"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "title": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

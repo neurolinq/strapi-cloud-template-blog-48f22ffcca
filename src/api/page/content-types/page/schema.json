@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pages",
+  "info": {
+    "singularName": "page",
+    "pluralName": "pages",
+    "displayName": "Page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "blocks": {
+      "type": "dynamiczone",
+      "components": [
+        "shared.hero-section",
+        "aboutpage.our-story",
+        "aboutpage.our-mission",
+        "aboutpage.core-values",
+        "homepage.founder",
+        "aboutpage.care-approach",
+        "servicepage.assessment",
+        "servicepage.medication",
+        "feespage.our-commitment",
+        "feespage.pricing-options",
+        "feespage.corporate-pricing",
+        "contactpage.contact-details",
+        "contactpage.faq"
+      ]
+    },
+    "title": {
+      "type": "text"
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title"
+    }
+  }
+}
