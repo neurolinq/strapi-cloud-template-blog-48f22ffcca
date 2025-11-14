@@ -558,6 +558,7 @@ export interface ApiPagePage extends Struct.CollectionTypeSchema {
         'feespage.corporate-pricing',
         'contactpage.contact-details',
         'contactpage.faq',
+        'layout.cta',
       ]
     >;
     createdAt: Schema.Attribute.DateTime;

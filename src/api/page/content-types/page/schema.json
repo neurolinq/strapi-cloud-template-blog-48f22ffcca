@@ -26,7 +26,8 @@
         "feespage.pricing-options",
         "feespage.corporate-pricing",
         "contactpage.contact-details",
-        "contactpage.faq"
+        "contactpage.faq",
+        "layout.cta"
       ]
     },
     "title": {
