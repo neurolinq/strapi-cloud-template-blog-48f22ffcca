@@ -514,6 +514,7 @@ export interface ApiHomepageHomepage extends Struct.SingleTypeSchema {
         'homepage.care-standard',
         'homepage.pathway',
         'homepage.founder',
+        'layout.cta',
       ]
     >;
     createdAt: Schema.Attribute.DateTime;
