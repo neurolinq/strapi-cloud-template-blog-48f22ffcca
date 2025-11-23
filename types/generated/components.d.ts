@@ -258,6 +258,7 @@ export interface LayoutContact extends Struct.ComponentSchema {
     displayName: 'Contact';
   };
   attributes: {
+    href: Schema.Attribute.Text;
     icon: Schema.Attribute.Media<'images'>;
     text: Schema.Attribute.Text;
   };
